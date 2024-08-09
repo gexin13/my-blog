@@ -1,7 +1,7 @@
 baseURL = 'https://gexin13.github.io/my-blog/'
 languageCode = 'zh-CN'
 title = "MoonStar's Blog"
-theme = "hugo-theme-stack"
+theme = "stack"
 disqusShortname = "" # 如果使用 disqus 评论系统，在这里填写自己的 disqus 用户名 
 hasCJKLanguage = true
 enableEmoji = true
